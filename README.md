@@ -30,7 +30,7 @@ I enjoy codes. I'm open to learning and improvement. Currently I'm learning Java
                           
                       <a href="http://www.instagram.com/calex_oyoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.linkedin.com/in/calex oyoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                      <a href="https://www.linkedin.com/in/Calex oyoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
                       <a href="https://www.stackoverflow.com/users/calex oyoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
                           
