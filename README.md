@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oyoo Calex
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oyoo Calex.
 ==================================================================================================================================
 
-An Aspiring Software Engineer
+An Aspiring Software Engineer.
 -----------------------------
 
 I enjoy codes. I'm open to learning and improvement. Currently I'm learning JavaScript.
 
-*   🌍  I'm based in Nairobi
+*   🌍  I'm based in Nairobi.
 *   ✉️  You can contact me at [calexoyoo400@gmail.com](mailto:calexoyoo400@gmail.com)
-*   🧠  I'm learning JavaScript<a href="https://www.twitter.com/CALEX OYOO" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/CALEX OYOO?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+*   🧠  I'm learning JavaScript<a href="https://www.twitter.com/calex_oyoo" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/calex_oyoo"logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -26,7 +26,7 @@ I enjoy codes. I'm open to learning and improvement. Currently I'm learning Java
                           
                       <a href="https://www.facebook.com/calex oyoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.github.com/CALEX OYOO" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                      <a href="https://www.github.com/OYOOCALEX2022" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
                       <a href="http://www.instagram.com/calex_oyoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
                           
@@ -34,4 +34,4 @@ I enjoy codes. I'm open to learning and improvement. Currently I'm learning Java
                           
                       <a href="https://www.stackoverflow.com/users/calex oyoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitter.com/CALEX OYOO" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges
+                      <a href="https://www.twitter.com/calex_oyoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges
