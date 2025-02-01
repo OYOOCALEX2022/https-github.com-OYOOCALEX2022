@@ -9,7 +9,7 @@ I enjoy codes. I'm open to learning and improvement. Currently I'm learning Java
 *   🌍  I'm based in Nairobi.
 *   ✉️  You can contact me at [calexoyoo400@gmail.com](mailto:calexoyoo400@gmail.com)
 *   
-                /></a>### Skills 
+                /></a>### Top Technologies 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
